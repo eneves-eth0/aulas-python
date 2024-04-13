@@ -1,0 +1,24 @@
+CPU Info
+Physical Cores,12
+Total Cores,12
+Max Frequency,4056.00Mhz
+
+Memory Info
+Total,36.00 GB
+Available,11.30 GB
+Used,15.32 GB
+Percentage,68.6%
+
+Disk Info
+Disk 1 (/dev/disk3s1s1),"{'Total': '460.43 GB', 'Used': '9.54 GB', 'Free': '226.47 GB', 'Percentage': '4.0%'}"
+Disk 2 (/dev/disk3s6),"{'Total': '460.43 GB', 'Used': '0.00 GB', 'Free': '226.47 GB', 'Percentage': '0.0%'}"
+Disk 3 (/dev/disk3s2),"{'Total': '460.43 GB', 'Used': '5.75 GB', 'Free': '226.47 GB', 'Percentage': '2.5%'}"
+Disk 4 (/dev/disk3s4),"{'Total': '460.43 GB', 'Used': '0.02 GB', 'Free': '226.47 GB', 'Percentage': '0.0%'}"
+Disk 5 (/dev/disk1s2),"{'Total': '0.49 GB', 'Used': '0.01 GB', 'Free': '0.47 GB', 'Percentage': '1.2%'}"
+Disk 6 (/dev/disk1s1),"{'Total': '0.49 GB', 'Used': '0.01 GB', 'Free': '0.47 GB', 'Percentage': '1.3%'}"
+Disk 7 (/dev/disk1s3),"{'Total': '0.49 GB', 'Used': '0.00 GB', 'Free': '0.47 GB', 'Percentage': '0.6%'}"
+Disk 8 (/dev/disk3s5),"{'Total': '460.43 GB', 'Used': '217.63 GB', 'Free': '226.47 GB', 'Percentage': '49.0%'}"
+Disk 9 (/dev/disk4s1),"{'Total': '0.29 GB', 'Used': '0.17 GB', 'Free': '0.13 GB', 'Percentage': '57.3%'}"
+
+Network Info
+
